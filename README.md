@@ -3,7 +3,7 @@
 I'm Stéphane, fullstack developper in the making, former safety engineer.
 I like solving technical issues through my coding skills. 
 
-## :green_circle: I'm currently trying to build stuff using
+## :mage: I'm currently trying to build stuff using
 - Node.js
 - Express
 - PostgreSQL (sometimes with Sequelize as an ORM)
@@ -13,14 +13,14 @@ I like solving technical issues through my coding skills.
 - Vanilla JavaScript
 - HTML5/CSS3
 
-## :mag: I am looking forward to learning more about
+## :alien: I am looking forward to learning more about
 - MongoDB
 - Jest (and TDD in general)
 - TypeScript
 - Vue (or React. Or maybe Angular once I'm brave enough.)
 - This list will keep growing.
 
-## Wanna reach me?
+## :inbox_tray: Wanna reach me?
 Drop me an email: dan.andriamihaja@gmail.com
 
 
