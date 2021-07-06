@@ -14,8 +14,8 @@ I like solving technical issues through my coding skills.
 - HTML5/CSS3
 
 ## :alien: I am looking forward to learning more about
+- Chai, Mocha (and TDD in general)
 - MongoDB
-- Jest (and TDD in general)
 - TypeScript
 - Vue (or React. Or maybe Angular once I'm brave enough.)
 - This list will keep growing.
