@@ -1,4 +1,5 @@
-![Cover](https://github.com/Dananando/Dananando/blob/main/img/cover.png)
+<img src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="40%" height="40%">
+
 
 ### Hi there 👋
 
