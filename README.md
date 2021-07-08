@@ -23,6 +23,8 @@ I like solving technical issues through my coding skills.
 ## :inbox_tray: Wanna reach me?
 Drop me an email: dan.andriamihaja@gmail.com
 
+![Cover](https://github.com/Dananando/Dananando/blob/main/img/favpng_react-secrets-of-the-javascript-ninja-node-js-youtube.png)
+
 
 <!--
 **Dananando/Dananando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
