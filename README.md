@@ -1,3 +1,5 @@
+![Cover](https://github.com/Dananando/Dananando/blob/main/img/cover.png)
+
 ### Hi there 👋
 
 I'm Stéphane, fullstack developper in the making, former safety engineer.
@@ -22,9 +24,6 @@ I like solving technical issues through my coding skills.
 
 ## :inbox_tray: Wanna reach me?
 Drop me an email: dan.andriamihaja@gmail.com
-
-![Cover](https://github.com/Dananando/Dananando/blob/main/cover.png)
-
 
 <!--
 **Dananando/Dananando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
