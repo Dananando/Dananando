@@ -1,4 +1,4 @@
-<img src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="25%" height="25%">
+<img src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="15%" height="15%">
 
 
 ### Hi there 👋
