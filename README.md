@@ -27,9 +27,6 @@ I like solving technical issues through my coding skills.
 Drop me an email: dan.andriamihaja@gmail.com
 Or add me on LinkedIn.
 
-## Some fun stats. 
-[![khosheik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dananando&theme=radical&show_icons=true&include_all_commits&count_private)](https://github.com/dananando/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dananando&theme=radical&show_icons=true&langs_count=10&layout=compact)](https://github.com/dananando/github-readme-stats)
 
 <!--
 **Dananando/Dananando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
