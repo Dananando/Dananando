@@ -25,7 +25,8 @@ I like solving technical issues through my coding skills.
 
 ## :inbox_tray: Wanna reach me?
 Drop me an email: dan.andriamihaja@gmail.com
-Or add me on LinkedIn.
+Or add me on [LinkedIn](https://www.linkedin.com/in/sandriamihaja/)
+
 
 
 <!--
