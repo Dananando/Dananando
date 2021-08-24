@@ -1,23 +1,31 @@
 <img src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="15%" height="15%">
+# JavaScript developper
 
-
-### Hi there 👋
+### Hi there, I am Stéphane, Fullstack JavaScript / NodeJS developper 👋
 
 I'm Stéphane, fullstack developper in the making, former safety engineer.
-I like solving technical issues through my coding skills. 
+I like solving technical issues through my coding skills.
+Please find my heavily boostraped website [here](https://dananando.github.io/startbootstrap-freelancer/).
 
 ## :mage: I'm currently trying to build stuff using
-- Node.js
-- Express
-- PostgreSQL (sometimes with Sequelize as an ORM)
-- GraphQL
-- Sqitch
-- Insomnia
-- Vanilla JavaScript
-- HTML5/CSS3
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" title="JavaScript" width="25" height="25" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="css" width="25" height="25" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" title="html" width="25" height="25" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" title="postgresql" width="25" height="25" />
+
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap" width="25" height="25" />
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="bootstrap" title="bootstrap" width="25" height="25" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" title = "nodejs" width="25" height="25" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+" alt="nodejs" title = "nodejs" width="25" height="25" />
 
 ## :alien: I am looking forward to learning more about
 - Chai, Mocha (and TDD in general)
+- GraphQL
 - MongoDB
 - TypeScript
 - Vue (or React. Or maybe Angular once I'm brave enough.)
