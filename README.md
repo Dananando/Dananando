@@ -1,11 +1,14 @@
 <img src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="15%" height="15%">
 # JavaScript developper
 
-### Hi there, I am Stéphane, Fullstack JavaScript / NodeJS developper 👋
+## Hi there, I am Stéphane, Fullstack JavaScript / NodeJS developper 👋
 
 I'm Stéphane, fullstack developper in the making, former safety engineer.
 I like solving technical issues through my coding skills.
 Please find my heavily boostraped website [here](https://dananando.github.io/startbootstrap-freelancer/).
+
+🌱 I’m currently learning how to use React (thanks to Openclassrooms) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="react"/>
+
 
 ## :mage: I'm currently trying to build stuff using
 
