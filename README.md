@@ -7,11 +7,12 @@ I'm Stéphane, fullstack developper in the making, former safety engineer.
 I like solving technical issues through my coding skills.
 Please find my heavily boostraped website [here](https://dananando.github.io/startbootstrap-freelancer/).
 
-🌱 I’m currently learning how to use React (thanks to Openclassrooms) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="react"/>
+🌱 I’m currently learning how to use Vue (thanks to this [tutorial](https://www.udemy.com/course/vuejs-2-the-complete-guide/) from Maximilian Schwarzmüller) <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" title="vue"/>
 
 
 ## :mage: I'm currently trying to build stuff using
 
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" title="JavaScript"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="css"/>
@@ -24,7 +25,8 @@ Please find my heavily boostraped website [here](https://dananando.github.io/sta
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" title = "nodejs"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="nodejs" title = "nodejs"/>
-
+</p>
+  
 ## :alien: I am looking forward to learning more about
 - Chai, Mocha (and TDD in general)
 - GraphQL
