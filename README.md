@@ -1,15 +1,15 @@
 <p align="center">
   <img align="center" src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="15%" height="15%">
 </p>
-# JavaScript developper
+# Web developer
 
-## Hi there, I am Stéphane, Fullstack JavaScript / NodeJS developper 👋
+## Hi there, I am Stéphane, Fullstack developer in the making 👋
 
 I'm Stéphane, fullstack developper in the making, former safety engineer.
 I like solving technical issues through my coding skills.
 Please find my heavily boostraped website [here](https://dananando.github.io/startbootstrap-freelancer/).
 
-🌱 I’m currently learning how to use Vue (thanks to this [tutorial](https://www.udemy.com/course/vuejs-2-the-complete-guide/) from Maximilian Schwarzmüller) <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" title="vue"/>
+🌱 I’m currently learning how to use Vue (thanks to this [tutorial](https://www.udemy.com/course/vuejs-2-the-complete-guide/) from Maximilian Schwarzmüller) <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" title="vue"/>. I might be learning Ruby in the future.
 
 
 ## :mage: I'm currently trying to build stuff using
