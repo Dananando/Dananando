@@ -1,4 +1,4 @@
-<img src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="15%" height="15%">
+<img align="center" src="https://github.com/Dananando/Dananando/blob/main/img/cover.png" width="15%" height="15%">
 # JavaScript developper
 
 ## Hi there, I am Stéphane, Fullstack JavaScript / NodeJS developper 👋
@@ -28,11 +28,11 @@ Please find my heavily boostraped website [here](https://dananando.github.io/sta
 </p>
   
 ## :alien: I am looking forward to learning more about
-- Chai, Mocha (and TDD in general)
+- Chai, Mocha (and tests in general)
 - GraphQL
 - MongoDB
 - TypeScript
-- Vue (or React. Or maybe Angular once I'm brave enough.)
+- A hype front-end framework like Svelte?
 - This list will keep growing.
 
 ## :inbox_tray: Wanna reach me?
