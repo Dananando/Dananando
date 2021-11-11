@@ -5,7 +5,7 @@
 
 ## Hi there, I am Stéphane, Fullstack developer in the making 👋
 
-I'm Stéphane, fullstack developper in the making, former safety engineer.
+I'm Stéphane, striving to be a fullstack developper, and I used to be a safety engineer.
 I like solving technical issues through my coding skills.
 Please find my heavily boostraped website [here](https://dananando.github.io/startbootstrap-freelancer/).
 
