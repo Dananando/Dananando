@@ -5,7 +5,8 @@
 
 ## Hi there, I am Stéphane, Fullstack developer in the making 👋
 
-I'm Stéphane, striving to be a fullstack developper, and I used to be a safety engineer.
+<!--
+I'm Stéphane, striving to be a fullstack developer, and I used to be a safety engineer.
 I like solving technical issues through my coding skills.
 Please find my heavily boostraped website [here](https://dananando.github.io/startbootstrap-freelancer/).
 
@@ -40,7 +41,7 @@ Please find my heavily boostraped website [here](https://dananando.github.io/sta
 ## :inbox_tray: Wanna reach me?
 Drop me an email: dan.andriamihaja@gmail.com
 Or add me on [LinkedIn](https://www.linkedin.com/in/sandriamihaja/)
-
+-->
 
 
 <!--
