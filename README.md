@@ -23,17 +23,12 @@ Please find my heavily boostraped website [here](https://dananando.github.io/sta
 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" title="postgresql"/>
 
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap"/>
-  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="bootstrap" title="bootstrap"/>
-
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" title = "nodejs"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="nodejs" title = "nodejs"/>
 </p>
   
 ## :alien: I am looking forward to learning more about
 - Chai, Mocha (and tests in general)
-- GraphQL
-- MongoDB
 - TypeScript
 - A hype front-end framework like Svelte?
 - This list will keep growing.
